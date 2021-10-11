@@ -1,0 +1,2 @@
+# Main-College-Repository
+This folder contains multiple files of code based in the Java language, it is best rub in NetBeans IDE 8.2 but may work on other IDE's. This was a project I was tasked with completing for my Data Structures and Algorithms Module in my Second Year of my studies As seen in the project a user is required to enter a number of details and is then enlisted into a queue for covid vacination, as users are vacinated their details are removed from the queue and the foloowing patients details are displayed.
